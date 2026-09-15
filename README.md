@@ -1,9 +1,12 @@
-# ECIDF Website
+# ECIDF Website — Cinematic Editorial V6
 
-Multi-page development prototype for Egbokor Community Integrated Development Foundation.
+Multi-page static website for Egbokor Community Integrated Development Foundation.
 
 ## Pages
-Home, About, Programs & Projects, Membership, Leadership, News & Updates, Gallery, Support, Contact.
+Home, About, Programs, Membership, Leadership, News, Gallery, Contact, Support.
 
-## Content updates
-Replace placeholder media in `assets/images/` and update the corresponding HTML page. Unverified leadership, donation, contact and project information is intentionally marked as coming soon.
+## Content provisions
+Placeholders are intentionally included for authentic community photography, verified leadership profiles, project evidence, news, secure forms and official support/payment details. Replace them only with confirmed ECIDF material.
+
+## Local preview
+Open `index.html` in a browser or serve the folder with a local static server.

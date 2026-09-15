@@ -1,1 +1,1 @@
-const b=document.querySelector('.menu'),n=document.querySelector('.site-header nav');if(b&&n)b.addEventListener('click',()=>{const o=n.classList.toggle('open');b.setAttribute('aria-expanded',o)});
+const b=document.querySelector('.menu'),n=document.querySelector('.site-header nav');if(b&&n){b.addEventListener('click',()=>{const o=n.classList.toggle('open');b.setAttribute('aria-expanded',o);});}
