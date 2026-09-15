@@ -1,4 +1,4 @@
-# ECIDF Website — Cinematic Editorial V7
+# ECIDF Website — Edo/Benin Heritage V8
 
 Multi-page static website for Egbokor Community Integrated Development Foundation.
 
@@ -9,3 +9,8 @@ Multi-page static website for Egbokor Community Integrated Development Foundatio
 - Preserved multi-page navigation and all coming-soon provisions for future verified content.
 
 GitHub Pages compatible.
+
+## V8 updates
+- Replaced the atom-style graphic with a rotating globe featuring Edo State and traditional Benin-inspired symbols.
+- Redesigned the Programs and Support content areas with layered ECIDF green, bronze detailing and editorial depth.
+- Added responsive and reduced-motion treatment for the new globe.
